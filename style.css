@@ -1,0 +1,17 @@
+
+            body{background-color:grey;
+            margin-left: 450px ;
+        
+            
+            }
+            p{
+                width: 450px;
+                border-width: 1px;
+                border-style: solid;
+                border-color: white;
+                text-align: center;
+                padding: 25px;
+                margin-left: 0;
+            }
+        
+ 
